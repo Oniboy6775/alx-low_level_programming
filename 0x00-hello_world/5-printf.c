@@ -4,7 +4,7 @@
  *
  *Description - program to output something using prinf function
  *
- *Returns: Always 0 (success)
+ *Return: Always 0 (success)
 */
 int main(void)
 {
