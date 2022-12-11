@@ -2,7 +2,7 @@
 /**
  *main - entry point
  *Description - program to output something using prinf function
- *Returns - Always 0 (success)
+ *Returns: Always 0 (success)
 */
 int main(void)
 {
