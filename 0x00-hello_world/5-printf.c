@@ -1,5 +1,7 @@
-//program to output something using prinf function
 #include <stdio.h>
+/**
+ *program to output something using prinf function
+*/
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
