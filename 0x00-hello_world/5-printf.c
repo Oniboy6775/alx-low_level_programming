@@ -1,4 +1,4 @@
-/*program to output something using prinf function*/
+//program to output something using prinf function
 #include <stdio.h>
 int main(void)
 {
