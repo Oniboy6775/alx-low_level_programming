@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <main.h>
+#include <main>
 /*
  * main: entry point
  * Description: Task 0
