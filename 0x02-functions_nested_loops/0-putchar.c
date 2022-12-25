@@ -2,7 +2,7 @@
 
 /*
  * main: entry point
- * Description: Task 0
+ * description: function to out push some string
  * Return: Always 0 (success)
  */
 int main(void)
