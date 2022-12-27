@@ -12,7 +12,6 @@ char arr_char[27] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 int i;
 for (i = 0; arr_char[i]; i++)
 {
-_putchar(65);
+_putchar(arr_char[i]);
 }
-_putchar(10);
 }
