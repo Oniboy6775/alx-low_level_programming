@@ -5,7 +5,6 @@
  * Description - A function that prints the english alphabet
  * Return - Always 0.
 */
-void print_alphabet(void);
 int _putchar(char);
 void print_alphabet(void)
 {
@@ -13,7 +12,7 @@ char arr_char[27] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 int i;
 for (i = 0; arr_char[i]; i++)
 {
-_putchar(arr_char[i]);
+_putchar(65);
 }
 _putchar(10);
 }
