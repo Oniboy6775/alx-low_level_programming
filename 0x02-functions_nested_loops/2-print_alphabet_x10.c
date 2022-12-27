@@ -15,15 +15,14 @@ int _putchar(char arg1);
 
 void print_alphabet_x10(void)
 {
-	char alphabet;
-	int i;
+char alphabet;
+int i;
 for (i = 0; i < 10; i++)
 {
-printf("%d\n", i);
 for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 _putchar(alphabet);
-}
 printf("\n");
+}
 }
 }
