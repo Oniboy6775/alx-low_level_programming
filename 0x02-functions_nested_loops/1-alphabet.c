@@ -1,17 +1,22 @@
 #include <stdio.h>
-
 /**
- * main - check the code
+ * print_alphabet - check the code
+ * _putchar - replace putchar
  * Description - A function that prints the english alphabet
  * Return - Always 0.
 */
+/*
+ * _putchar - replace putchar
+ * Description - external putchar
+ * Return = Always 0.
+ */
 int _putchar(char);
 void print_alphabet(void)
 {
-char arr_char[28] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '\n', '\0'};
-int i;
-for (i = 0; arr_char[i]; i++)
+  char alphabet;
+  for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
-_putchar(arr_char[i]);
+_putchar(alphabet);
 }
+_putchar(10);
 }
