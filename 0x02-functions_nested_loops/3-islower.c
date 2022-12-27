@@ -6,13 +6,6 @@
  * Description - This is a function to check lower case letters
  * Return: Always 1 if lower and 0 if oherwise
 */
-
-/**
- * checkLower - to check a lower case letter
- * @c: the character to check
- * Description - This is a function to check lower case letters
- * Return: Always 1 if lower and 0 if oherwise
- */
 int _islower(int c)
 {
 if (islower(c))
