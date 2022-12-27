@@ -1,11 +1,10 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * _putchar -  initialize my code
  *@arg1:the cahracter
  *Description - external putchar
  *Return: - Always int.
  */
-int _putchar(char arg1);
 /**
  *print_alphabet_x10 - check the code
  *_putchar - replace putchar
@@ -23,6 +22,6 @@ for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 {
 _putchar(alphabet);
 }
-putchar(10);
+_putchar(10);
 }
 }
