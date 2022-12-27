@@ -1,15 +1,9 @@
 #include "main.h"
 /**
- * _putchar -  initialize my code
- *@arg1:the cahracter
- *Description - external putchar
- *Return: - Always int.
- */
-/**
- *print_alphabet_x10 - check the code
- *_putchar - replace putchar
- *Description - A function that prints the english alphabet
- *Return: - Always 0.
+ * print_alphabet_x10 - check the code
+ * _putchar - replace putchar
+ * Description - A function that prints the english alphabet
+ * Return: - Always 0.
 */
 
 void print_alphabet_x10(void)
