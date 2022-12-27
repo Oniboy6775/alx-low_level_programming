@@ -12,5 +12,6 @@ while (start <= 'z')
 putchar(start);
 start++;
 }
+putchar(10);
 return (0);
 }
