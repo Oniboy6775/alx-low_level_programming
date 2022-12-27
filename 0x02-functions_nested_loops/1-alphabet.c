@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include <stdio.h>
 /**
  *  * main - check the code
  *   *Description - This is a function that prints alphabet
@@ -21,4 +20,5 @@ for(i=0; arr_char[i]; i++)
 {
 printf("%c",arr_char[i]);
 }
+putchar(10);
 }
