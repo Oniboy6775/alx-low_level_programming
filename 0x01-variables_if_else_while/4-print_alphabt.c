@@ -13,6 +13,6 @@ continue;
 else
 putchar(alpha);
 }
-putchar("\n");
+putchar(10);
 return (0);
 }
