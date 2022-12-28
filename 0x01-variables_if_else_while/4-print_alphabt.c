@@ -9,7 +9,6 @@ int main(void)
 for (alpha = 'a'; alpha <= 'z'; alpha++)
 {
 if (alpha == 'q' || alpha == 'e')
-putchar(0);
 else
 putchar(alpha);
 }
