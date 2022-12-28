@@ -1,4 +1,5 @@
 #include "stdio.h"
+#include "main.h"
 /**
  * more_numbers - entry
  * Description - Prints 1 - 14 10x
