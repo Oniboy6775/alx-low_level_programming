@@ -4,7 +4,7 @@
  * Description - Prints 1 - 14 10x
  * Return: void
  */
-void main(void)
+void more_numbers(void)
 {
 	int i, j;
 for (i = 1; i <= 10; i++)
