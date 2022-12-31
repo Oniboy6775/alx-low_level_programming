@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * print_last_digit - entry point
- * @num: the number to check its last digit
+ * @n: the number to check its last digit
  * Description - check the last digit of a number
  * Return: Always return the last digit
  */
